@@ -18,6 +18,7 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
    1. The first step is don't write this encourages us to learn everything we can about our topic, goal and how to achieve our goal.
    2. Then we should define our audience this encourages us to meet with and learn about our audience so that we don't do unnecessary work and so that we achieve our ultimate goal.
    3. Next we write the basic functional documentation in this step we write about the things that we learned in don't write and we write to the audience we defined. According to Etter in this step at a minimum we need to answer the following questions: what is the product, why do we want it, how does it fit into the bigger picture, where can we get it, how can we get it and how can we use it.
+   4. Finally, we should review our writing to make sure it follows Etter's style principle. We should make sure we are consistent in spelling and formatting. Additionally, we should restructure paragraphs into tables, lists, diagrams and images where ever possible to make our text more legible. Lastly, we should not use jargon that might confuse our audience. 
 
 2. ### Create Github repository
     1. Sign-in to [GitHub](https://github.com/login).  
@@ -45,13 +46,13 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     4. Find a jekyll theme that you like. I have added links in the [More Resources](#more-resources) section below to a variety of Jekyll themes.
     5. Follow your jekyll themes installation guide.   If it is available I recommend using the remote-theme option. It requires a single line in your _config.yml file which is remote-theme: name. You should be able to find a particular themes name in either the README.md or in their _config.yml file.
     6. Click commit changes.  
-<br>The principle for Etter's book outlined by this step is that....
+<br>In this step we again use Etter's step of building a website. This time we add a theme to make our Markdown file prettier and easier for our users to read. 
 
 5. ### Rebuild website with style choice
     1. Click code.  
 Now you should see a yellow dot above the list of files. This indicates that your website is being rebuilt using the theme you selected in your _config.yml file. It will be done building when the dot turns into a green check mark you may need to refresh occasionally for this to happen. For more details on the build including what it is doing and it's progress simply click on the yellow dot followed by details.
     2. Go to https://username.github.io where username is your username. You should now see your resume formatted using the style that you chose.  
-<br>The principle for Etter's book outlined by this step is that....
+<br>In this step we use Etter's principle of updating frequently. Because whenever, we save a change to our repository the site rebuilds within a matter of minutes. This allows us to easily make changes to our site that happen almost instantly, making publishing frequently simple. Lastly, since we can publish frequently maintaing a catalog of difference doesn't take much effort. With every release the developpers can simply inform us of the changes and then we can describe them objectively in a README for all users to see.
 
 ## More Resources
 * If you need a refresher in Markdown or if you are still learning, then here is a [Markdown Tutorial](https://www.markdowntutorial.com/) you may find useful.
