@@ -13,17 +13,22 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
 
 ![This is a visual version of the manual steps written out below.](https://github.com/chayward3113/chayward3113.github.io/blob/main/walkthrough.gif)
 
-1. Sign-in to [GitHub](https://github.com/login).
+1. Confirm that the [Prerequisites](#prerequisites) listed above have been completed.  
+   <br>When we create our resume we should follow the model that Andrew Etter set out in his book Modern Technical Writing.
+   1. The first step is don't write this encourages us to learn everything we can about our topic, goal and how to achieve our goal.
+   2. Then we should define our audience this encourages us to meet with and learn about our audience so that we don't do unnecessary work and so that we achieve our ultimate goal.
+   3. Next we write the basic functional documentation in this step we write about the things that we learned in don't write and we write to the audience we defined. According to Etter in this step at a minimum we need to answer the following questions: what is the product, why do we want it, how does it fit into the bigger picture, where can we get it, how can we get it and how can we use it.
 
-2. ### Create Github repository  
-    1. Click the plus icon in the top right corner of the screen.
-    2. Click New repository. 
-    3. Name your reposirory username.github.io where username is your username.
-    4. Check the Add a README option.
-    5. Click the Create repository button at the bottom of the screen.  
-<br>By creating a GitHub repository we are creating a centralized location for documentation, code or in our case resumes. GitHub repositories allow us to publish changes as frequently as we want, track changes and if we make our repository public it allows anyone with a GitHub account to make changes. On top of this GitHub can build and host a website for us. Thus it can handle Etter's principles of style, cataloging differences, building a website, helping others write and publishing frequently. 
+3. ### Create Github repository
+    1. Sign-in to [GitHub](https://github.com/login).  
+    2. Click the plus icon in the top right corner of the screen.
+    3. Click New repository. 
+    4. Name your reposirory username.github.io where username is your username.
+    5. Check the Add a README option.
+    6. Click the Create repository button at the bottom of the screen.  
+<br>In this step we are following the  
 
-3. ### Build Website
+4. ### Build Website
     1. Click Add file > Upload files.
     2. Select your markdown formatted resume for upload. 
     3. Click Commit changes.
@@ -33,7 +38,7 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     7. Commit changes. Now if you go to https://username.github.io you should see your markdown formatted resume in it's default format.  
 <br>The principle for Etter's book outlined by this step is that....
 
-4. ### Setup Markdown styling
+5. ### Setup Markdown styling
     1. Click the Code tab in your GitHub repository.
     2. Click Add file > Create new file.
     3. Name the file _config.yml.
@@ -42,7 +47,7 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     6. Click commit changes.  
 <br>The principle for Etter's book outlined by this step is that....
 
-5. ### Rebuild website with style choice
+6. ### Rebuild website with style choice
     1. Click code.  
 Now you should see a yellow dot above the list of files. This indicates that your website is being rebuilt using the theme you selected in your _config.yml file. It will be done building when the dot turns into a green check mark you may need to refresh occasionally for this to happen. For more details on the build including what it is doing and it's progress simply click on the yellow dot followed by details.
     2. Go to https://username.github.io where username is your username. You should now see your resume formatted using the style that you chose.  
