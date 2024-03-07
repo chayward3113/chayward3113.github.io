@@ -10,6 +10,7 @@ If you do not know how to create a resume formatted using Markdown then you can 
 You can create a GitHub account [here](https://github.com/signup?source=login). 
 
 ## Instructions
+
 ![This is a visual version of the manual steps written out below.](https://github.com/chayward3113/chayward3113.github.io/blob/main/walkthrough.gif)
 
 1. Sign-in to [GitHub](https://github.com/login).
@@ -36,7 +37,7 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     1. Click the Code tab in your GitHub repository.
     2. Click Add file > Create new file.
     3. Name the file _config.yml.
-    4. Find a jekyll theme that you like; I found my theme [here](https://github.com/topics/remote-theme).
+    4. Find a jekyll theme that you like. I have added links in the [More Resources](#more-resources) section below to a variety of Jekyll themes.
     5. Follow your jekyll themes installation guide.   If it is available I recommend using the remote-theme option. It requires a single line in your _config.yml file which is remote-theme: name. You should be able to find a particular themes name in either the README.md or in their _config.yml file.
     6. Click commit changes.  
 <br>The principle for Etter's book outlined by this step is that....
@@ -48,6 +49,13 @@ Now you should see a yellow dot above the list of files. This indicates that you
 <br>The principle for Etter's book outlined by this step is that....
 
 ## More Resources
+* If you need a refresher in Markdown or if you are still learning, then here is a [Markdown Tutorial](https://www.markdowntutorial.com/) you may find useful.
+* Here are some useful Jekyll themes available on GitHub:
+    * This is a list of [GitHub themes](https://pages.github.com/themes/)
+    * This is a list of [GitHub remote-themes](https://github.com/topics/remote-theme)
+    * This is [the theme I used](https://github.com/coogie/oscailte).
+* If you are looking for a more indepth overview of GitHub pages and how it works then checkout [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart).
+* If you are new to GitHub you can learn more about it's power and capabilities through it's [documentation](https://docs.github.com/en). I recommend starting with the [About GitHub and Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) page so that you get at least a base understanding of how it works and why it is so useful.
 
 ## Authors and Acknowledgements
 
