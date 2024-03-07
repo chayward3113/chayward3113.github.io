@@ -7,14 +7,14 @@ Winnipeg, Manitoba R3T 4J4
 ## Professional Experience
 
 
-**G3 Canada Limited** * Junior Developer <span style="float:right">05/2023-08/2023</span>  
+**G3 Canada Limited** * Junior Developer * 05/2023-08/2023  
 * Demonstrated the ability to communicate important information effectively through daily standups.
 * Exhibited critical thinking in the analysis and clarification of acceptance criteria for user stories. 
 * Assisted in acceptance and regression testing three major releases. 
 * Improved testing skills through the design and execution of acceptance tests. 
 * Gained experience working in an agile environment through participation in two-week sprints including the sprint planning, and sprint retrospectives.
 
-**Government of Manitoba (DTS)** * Junior Web Developer <span style="float:right">09/2022-12/2022</span> 
+**Government of Manitoba (DTS)** * Junior Web Developer * 09/2022-12/2022 
 * Successfully implemented an express request for a new form that was developed tested and implemented in a week. 
 * Researched and implemented a JavaScript module to help automate testing, reducing overall testing time.
 * Demonstrated the ability to communicate key information clearly and concisely through participation in daily standups with the team.
@@ -24,7 +24,7 @@ Winnipeg, Manitoba R3T 4J4
 * Ensured web forms were responsive and followed accessibility standards.
 * Demonstrated an ability to work in a flexible, fast paced work environment. 
 
-**Agriculture and Agri-Food Canada** * Programmer / Analyst (Small Systems)<span style="float:right">01/2022-04/2022</span> 
+**Agriculture and Agri-Food Canada** * Programmer / Analyst (Small Systems) * 01/2022-04/2022 
 * Represented Production Control team at a variety of design meetings for process automation and updated the documentation for the production control processes.
 * Demonstrated the ability to communicate effectively through weekly stand-ups with team and through one-on-one progress reports with direct supervisor.
 * Researched and implemented solutions to convert an application from 32bit Microsoft Office 2016 to 64bit Microsoft Office 365 to ensure compatibility.
