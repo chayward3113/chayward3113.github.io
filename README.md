@@ -58,5 +58,10 @@ Now you should see a yellow dot above the list of files. This indicates that you
 * If you are new to GitHub you can learn more about it's power and capabilities through it's [documentation](https://docs.github.com/en). I recommend starting with the [About GitHub and Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) page so that you get at least a base understanding of how it works and why it is so useful.
 
 ## Authors and Acknowledgements
+Author: Casandra Hayward
+Acknowledgements: 
+* First and foremost I must acknowledge Andrew Etter and his book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=3OKPDZ4W0S9Z1&dib=eyJ2IjoiMSJ9.7x6_md7AJLm7s3fbCCniuA.Nmvdv518HN-JlKjwwGQs9AlUaOCB3fi5z3wPXDmeYik&dib_tag=se&keywords=modern+technical+writing+by+andrew+etter&qid=1709825104&sprefix=modern+tech%2Caps%2C267&sr=8-1) as it greatly inspired my README's contents.
+* Next I must acknowledge coogie also known as Stephan Coogan and the other 6 contributors to the remote-theme [oscailte](https://github.com/coogie/oscailte) which I used to style and host my resume.
+* Lastly, I need to acknowledge my two classmates Logan Doran and Harry Pu who helped me by peer editing my repository.
 
 ## FAQs
