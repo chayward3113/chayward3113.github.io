@@ -19,16 +19,16 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
    2. Then we should define our audience this encourages us to meet with and learn about our audience so that we don't do unnecessary work and so that we achieve our ultimate goal.
    3. Next we write the basic functional documentation in this step we write about the things that we learned in don't write and we write to the audience we defined. According to Etter in this step at a minimum we need to answer the following questions: what is the product, why do we want it, how does it fit into the bigger picture, where can we get it, how can we get it and how can we use it.
 
-3. ### Create Github repository
+2. ### Create Github repository
     1. Sign-in to [GitHub](https://github.com/login).  
     2. Click the plus icon in the top right corner of the screen.
     3. Click New repository. 
     4. Name your reposirory username.github.io where username is your username.
     5. Check the Add a README option.
     6. Click the Create repository button at the bottom of the screen.  
-<br>In this step we are following the  
+<br>In this step we follow Etter's principle of helping others write by making a public GitHub repository. Which allows anyone with a GitHub account to add, edit or delete files within our repository. This way our users can help us maintain useful and up to date documentation.
 
-4. ### Build Website
+3. ### Build Website
     1. Click Add file > Upload files.
     2. Select your markdown formatted resume for upload. 
     3. Click Commit changes.
@@ -36,9 +36,9 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     5. Click the pencil icon to edit.
     6. Change your resumes file name to be index.md.
     7. Commit changes. Now if you go to https://username.github.io you should see your markdown formatted resume in it's default format.  
-<br>The principle for Etter's book outlined by this step is that....
+<br>In this step we demonstrate Etter's principle of building a website. We want to create a website to ensure that everyone always has access to the most up to date version of our documentation. Addtionally, it makes updating and distributing documentation both faster and simpler. 
 
-5. ### Setup Markdown styling
+4. ### Setup Markdown styling
     1. Click the Code tab in your GitHub repository.
     2. Click Add file > Create new file.
     3. Name the file _config.yml.
@@ -47,7 +47,7 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     6. Click commit changes.  
 <br>The principle for Etter's book outlined by this step is that....
 
-6. ### Rebuild website with style choice
+5. ### Rebuild website with style choice
     1. Click code.  
 Now you should see a yellow dot above the list of files. This indicates that your website is being rebuilt using the theme you selected in your _config.yml file. It will be done building when the dot turns into a green check mark you may need to refresh occasionally for this to happen. For more details on the build including what it is doing and it's progress simply click on the yellow dot followed by details.
     2. Go to https://username.github.io where username is your username. You should now see your resume formatted using the style that you chose.  
