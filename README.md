@@ -67,3 +67,16 @@ Now you should see a yellow dot above the list of files. This indicates that you
 * Lastly, I need to acknowledge my two classmates Logan Doran and Harry Pu who helped me by peer editing my repository.
 
 ## FAQs
+Why is Markdown better than a word processor?  
+Markdown is better than a word processor for several reasons: 
+* The first is that Markdown editors are free so anybody can use them and thus it makes it easier for others to contribute to markdown files.
+* Secondly, it has fewer formatting options which makes it simpler to use. Therefore, you can write content faster without needing to worry about styling.
+* Lastly, we can insure a consistent style accross multiple files by using a single Jekyll style for all the static sites we generate. Thus, removing the need to manually select the same template each time in word.
+
+ 
+Why is my resume not showing up?  
+If your resume is not showing up then you should try the following:
+1. Confirm that the build has completed by verifying that the yellow circle is gone and that the green checkmark is present.
+2. Confirm that the name of your resume is index.md.
+3. Confirm that your respository has the name username.github.io where username is your GitHub username.
+4. Confirm that you are using the correct url which is https://username.github.io where username is your GitHub username.
