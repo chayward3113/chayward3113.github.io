@@ -48,7 +48,7 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     6. Click commit changes.  
 <br>In this step we again use Etter's step of building a website. This time we add a theme to make our Markdown file prettier and easier for our users to read. 
 
-5. ### Rebuild website with our style choice
+5. ### Rebuild website with style choice
     1. Click code.  
 Now you should see a yellow dot above the list of files. This indicates that your website is being rebuilt. It will be done building when the dot turns into a green check mark this should take a couple minutes. For more details on the build including what it is doing, and its progress simply click on the yellow dot followed by details.
     2. Go to https://username.github.io where username is your username. You should now see your resume formatted using the style that you chose.  
