@@ -10,7 +10,7 @@ If you do not know how to create a resume formatted using Markdown then you can 
 You can create a GitHub account [here](https://github.com/signup?source=login). 
 
 ## Instructions
-![This is a visual version of the manual steps written out below.](./walkthrough.gif)
+![This is a visual version of the manual steps written out below.](https://github.com/chayward3113/chayward3113.github.io/blob/main/walkthrough.gif)
 
 1. Sign-in to [GitHub](https://github.com/login).
 
