@@ -1,6 +1,6 @@
-# How to setup a static website on GitHub
-This readme will explain how to host a markdown resume as a static website using GitHub pages.  
-Additionally, it will connect the steps to the corresponding principle outlined in Andrew Etter's book Modern Technical Writing. 
+# How to create a website using GitHub Pages
+This readme will explain how to host a markdown resume as a website using GitHub pages.  
+Additionally, it will connect the setup steps to their corresponding principle outlined in Andrew Etter's book Modern Technical Writing. 
 
 ## Prerequisites
 * A markdown formatted resume.  
@@ -33,10 +33,10 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     1. Click Add file > Upload files.
     2. Select your markdown formatted resume for upload. 
     3. Click Commit changes.
-    4. Click your resumes name.
+    4. Click your resume name.
     5. Click the pencil icon to edit.
-    6. Change your resumes file name to be index.md.
-    7. Commit changes. Now if you go to https://username.github.io you should see your markdown formatted resume in its default format.  
+    6. Change your resume’s file name to be index.md.
+    7. Commit changes. Now if you go to https://username.github.io you should see your markdown formatted resume.  
 <br>In this step we demonstrate Etter's principle of building a website. We want to create a website to ensure that everyone always has access to the most up to date version of our documentation. Additionally, it makes updating and distributing documentation both faster and simpler. 
 
 4. ### Setup Markdown styling
@@ -44,15 +44,15 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     2. Click Add file > Create new file.
     3. Name the file _config.yml.
     4. Find a Jekyll theme that you like. I have added links in the [More Resources](#more-resources) section below to a variety of Jekyll themes.
-    5. Follow your Jekyll themes installation guide.   If it is available, I recommend using the remote-theme option. It requires a single line in your _config.yml file which is remote-theme: name. You should be able to find a theme’s name in either the README.md or in their _config.yml file.
+    5. Follow your Jekyll themes installation guide.
     6. Click commit changes.  
 <br>In this step we again use Etter's step of building a website. This time we add a theme to make our Markdown file prettier and easier for our users to read. 
 
-5. ### Rebuild website with style choice
+5. ### Rebuild website with our style choice
     1. Click code.  
-Now you should see a yellow dot above the list of files. This indicates that your website is being rebuilt using the theme you selected in your _config.yml file. It will be done building when the dot turns into a green check mark you may need to refresh occasionally for this to happen. For more details on the build including what it is doing and its progress simply click on the yellow dot followed by details.
+Now you should see a yellow dot above the list of files. This indicates that your website is being rebuilt. It will be done building when the dot turns into a green check mark this should take a couple minutes. For more details on the build including what it is doing, and its progress simply click on the yellow dot followed by details.
     2. Go to https://username.github.io where username is your username. You should now see your resume formatted using the style that you chose.  
-<br>In this step we use Etter's principle of updating frequently. Because whenever, we save a change to our repository the site rebuilds within a matter of minutes. This allows us to easily make changes to our site that happen almost instantly, making publishing frequently simple. Lastly, since we can publish frequently maintaining a catalog of difference doesn't take much effort. With every release the developers can simply inform us of the changes and then we can describe them objectively in a README for all users to see.
+<br>In this step we use Etter's principle of updating frequently. Because whenever, we save a change to our repository the site rebuilds within a matter of minutes. This allows us to easily make changes to our site that happen almost instantly, making publishing frequently simple. Lastly, since we can publish frequently maintaining a catalog of difference doesn't take much effort. With every release the developers can simply inform us of the changes and we can describe them in a README for all our users to see.
 
 ## More Resources
 * If you need a refresher in Markdown or if you are still learning, then here is a [Markdown Tutorial](https://www.markdowntutorial.com/) you may find useful.
@@ -60,8 +60,8 @@ Now you should see a yellow dot above the list of files. This indicates that you
     * This is a list of [GitHub themes](https://pages.github.com/themes/)
     * This is a list of [GitHub remote-themes](https://github.com/topics/remote-theme)
     * This is [the theme I used](https://github.com/coogie/oscailte).
-* If you are looking for a more in-depth overview of GitHub pages and how it works then checkout [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart).
-* If you are new to GitHub, you can learn more about its power and capabilities through it's [documentation](https://docs.github.com/en). I recommend starting with the [About GitHub and Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) page so that you get at least a base understanding of how it works and why it is so useful.
+* If you are looking for an in-depth overview of GitHub pages and how it works then checkout [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart).
+* If you are new to GitHub, you can learn more about its power and capabilities through it's [documentation](https://docs.github.com/en), I recommend starting with the [About GitHub and Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) page.
 
 ## Authors and Acknowledgements
 ### Authors: 
@@ -69,20 +69,20 @@ Now you should see a yellow dot above the list of files. This indicates that you
 
 ### Acknowledgements: 
 * First and foremost I must acknowledge Andrew Etter and his book [Modern Technical Writing](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS/ref=sr_1_1?crid=3OKPDZ4W0S9Z1&dib=eyJ2IjoiMSJ9.7x6_md7AJLm7s3fbCCniuA.Nmvdv518HN-JlKjwwGQs9AlUaOCB3fi5z3wPXDmeYik&dib_tag=se&keywords=modern+technical+writing+by+andrew+etter&qid=1709825104&sprefix=modern+tech%2Caps%2C267&sr=8-1) as it greatly inspired my README's contents.
-* Next, I must acknowledge coogie also known as Stephan Coogan and the other 6 contributors to the remote-theme [oscailte](https://github.com/coogie/oscailte) which I used to style and host my resume.
+* Next, I must acknowledge coogie also known as Stephan Coogan and the other 6 contributors to the remote-theme [oscailte](https://github.com/coogie/oscailte) which I used to style my resume.
 * Lastly, I need to acknowledge my two classmates Logan Doran and Harry Pu who helped me by peer editing my repository.
 
 ## FAQs
 Why is Markdown better than a word processor?  
 Markdown is better than a word processor for several reasons: 
-* The first is that Markdown editors are free so anybody can use them and thus it makes it easier for others to contribute to markdown files.
+* The first is that Markdown editors are free so anybody can use them. Thus, it makes it easier for others to contribute to markdown files.
 * Secondly, it has fewer formatting options which makes it simpler to use. Therefore, you can write content faster without needing to worry about styling.
-* Lastly, we can ensure a consistent style across multiple files by using a single Jekyll style for all the static sites we generate. Thus, removing the need to manually select the same template each time in word.
+* Lastly, we can ensure a consistent style across multiple files by using a single Jekyll style. Thus, removing the need to manually select the same template each time in word.
 
  
 Why is my resume not showing up?  
 If your resume is not showing up, then you should try the following:
-1. Confirm that the build has completed by verifying that the yellow circle is gone and that the green checkmark is present.
+1. Confirm that the build has completed by verifying that the yellow circle is gone, and the green checkmark is present.
 2. Confirm that the name of your resume is index.md.
 3. Confirm that your repository has the name username.github.io where username is your GitHub username.
-4. Confirm that you are using the correct URL which is https://username.github.io where username is your GitHub username.
+4. Confirm that you are using the correct URL which is https://username.github.io.
