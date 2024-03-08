@@ -15,9 +15,9 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
 1. Confirm that the [Prerequisites](#prerequisites) listed above have been completed.  
    ### Benefits of Lightweight Markup Language  
    According to Andrew Etter's book "Modern Technical Writing":  
-   * One benefit of Lightweight Markup lanugages like Markdown is that editors are free so anybody can use them making it easier for others to contribute to markdown files.
+   * One benefit of Lightweight Markup languages like Markdown is that editors are free so anybody can use them making it easier for others to contribute to markdown files.
    * Another benefit is that it has fewer formatting options which makes it simpler to use. Therefore, you can write content faster without needing to worry about styling.
-   * One final benefit is that it is easy to maintain a consistent format across multiple documents. Since we keep the contents and style seperate through the use of a static site generator such as Jekyll. We can easily create a consistent style across multiple Markdown documents and remove the need to add styling to each individual document risking inconsistencies.   
+   * One final benefit is that it is easy to maintain a consistent format across multiple documents. Since we keep the contents and style separate by using a static site generator such as Jekyll. We can easily create a consistent style across multiple Markdown documents and remove the need to add styling to each individual document risking inconsistencies.    
 
 3. ### Create GitHub Repository  
     1. Sign-in to [GitHub](https://github.com/login).  
@@ -54,7 +54,7 @@ Now you should see a yellow dot above the list of files. This indicates that you
     #### Benefits of Generating Static Sites
     According to Andrew Etter's book "Modern Technical Writing":  
     * Creating a website ensures that everyone always has access to the most up to date version of our resumes.
-    * Static site generators make it easy to style Markdown files and styling makes them easier to read. They accomplish this by simplifying the styling process by seperating content from styles so that we can apply the same style to multiple files.
+    * Static site generators make it easy to style Markdown files and styling makes them easier to read. They accomplish this by simplifying the styling process by separating content from styles so that we can apply the same style to multiple files.
     * Additionally, it makes updating and distributing our resume faster and simpler. Especially in GitHub because whenever, we make a change to our repository it will automatically rebuild the site using Jekyll within a matter of minutes.
 
 ### Demo
