@@ -12,6 +12,9 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
 
 ## Instructions
 
+### Benefits of Lightweight Markup Language
+
+
 ![This is a visual version of the manual steps written out below.](https://github.com/chayward3113/chayward3113.github.io/blob/main/walkthrough.gif)
 
 1. Confirm that the [Prerequisites](#prerequisites) listed above have been completed.  
@@ -21,7 +24,8 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
    3. Next we write the basic functional documentation in this step we write about the things that we learned in don't write and we write to the audience we defined. According to Etter in this step at a minimum we need to answer the following questions: what the product is, why we want it, how it fits into the bigger picture, where we can get it, how we can get it and how we can use it.
    4. Finally, we should review our writing to make sure it follows Etter's style principle. We should make sure we are consistent in spelling and formatting. Additionally, we should restructure paragraphs into tables, lists, diagrams, and images wherever possible to make our text more legible. Lastly, we should not use jargon that might confuse our audience. 
 
-2. ### Create GitHub repository
+2. ### Create GitHub Repository  
+   #### Benefits of a Distributed Version Control System
     1. Sign-in to [GitHub](https://github.com/login).  
     2. Click the plus icon in the top right corner of the screen.
     3. Click New repository. 
@@ -30,7 +34,7 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     6. Click the Create repository button at the bottom of the screen.  
 In this step we follow Etter's principle of helping others write by making a public GitHub repository. Which allows anyone with a GitHub account to add, edit or delete files within our repository. This way our users can help us maintain useful and up to date documentation.
 
-3. ### Build Website
+4. ### Build Website
     1. Click Add file > Upload files.
     2. Select your markdown formatted resume for upload. 
     3. Click Commit changes.
@@ -40,7 +44,8 @@ In this step we follow Etter's principle of helping others write by making a pub
     7. Commit changes. Now if you navigate to username.github.io in your web-browser you should see your markdown formatted resume.  
 In this step we demonstrate Etter's principle of building a website. We want to create a website to ensure that everyone always has access to the most up to date version of our documentation. Additionally, it makes updating and distributing documentation both faster and simpler. 
 
-4. ### Setup Markdown styling
+5. ### Setup Markdown Styling  
+   #### Benefits of Generating Static Sites
     1. Click the Code tab in your GitHub repository.
     2. Click Add file > Create new file.
     3. Name the file _config.yml.
@@ -48,11 +53,9 @@ In this step we demonstrate Etter's principle of building a website. We want to 
     5. Follow your Jekyll themes installation guide.
     6. Click commit changes.  
 In this step we again use Etter's step of building a website. This time we add a theme to make our Markdown file prettier and easier for our users to read. 
-
-5. ### Rebuild website with style choice
-    1. Click code.  
+    7. Click code.  
 Now you should see a yellow dot above the list of files. This indicates that your website is being rebuilt. It will be done building when the dot turns into a green check mark this should take a couple minutes. For more details on the build including what it is doing, and its progress simply click on the yellow dot followed by details.
-    2. Navigate to username.github.io where username is your username. You should now see your resume formatted using the style that you chose.  
+    8. Navigate to username.github.io where username is your username. You should now see your resume formatted using the style that you chose.  
 In this step we use Etter's principle of updating frequently. Because whenever, we save a change to our repository the site rebuilds within a matter of minutes. This allows us to easily make changes to our site that happen almost instantly, making publishing frequently simple. Lastly, since we can publish frequently maintaining a catalog of difference doesn't take much effort. With every release the developers can simply inform us of the changes and we can describe them in a README for all our users to see.
 
 ## More Resources
