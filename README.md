@@ -26,7 +26,9 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     5. Check the Add a README option.
     6. Click the Create repository button at the bottom of the screen.  
     #### Benefits of a Distributed Version Control System  
-    In this step we follow Etter's principle of helping others write by making a public GitHub repository. Which allows anyone with a GitHub account to add, edit or delete files within our repository. This way our users can help us maintain useful and up to date documentation.
+    * Firstly, by using a distributed version control system such as GitHub we can make it easy for anyone to contribute by making a public repository. Which allows anyone with a GitHub account to add, edit or delete files within the repository. This way our users can help us maintain useful and up to date documentation.
+    * Secondly, by using a distributed version control system it becomes very easy to publish new versions and keep track of changes. Because whenever a change to the repository is saved you are given the option to provide a commit message where you can state what changed and why. Additionally, whenever a change to the repository is saved the new version will be available to everyone in a matter of minutes.
+    * Finally, when we use a distributed version control system like GitHub it makes it very easy to not duplicate documentation. Because we can keep all of our documentation in one location on the internet making it easy to add links from one document to another. 
 
 3. ### Build Website
     1. Click Add file > Upload files.
