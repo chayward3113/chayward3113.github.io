@@ -37,7 +37,7 @@ In this step we follow Etter's principle of helping others write by making a pub
     4. Click your resume name.
     5. Click the pencil icon to edit.
     6. Change your resume’s file name to be index.md.
-    7. Commit changes. Now if you go to https://username.github.io you should see your markdown formatted resume.  
+    7. Commit changes. Now if you go to username.github.io you should see your markdown formatted resume.  
 In this step we demonstrate Etter's principle of building a website. We want to create a website to ensure that everyone always has access to the most up to date version of our documentation. Additionally, it makes updating and distributing documentation both faster and simpler. 
 
 4. ### Setup Markdown styling
