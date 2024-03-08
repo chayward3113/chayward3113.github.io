@@ -1,4 +1,4 @@
-# How to Create a Website using GitHub Pages
+# How to Create a website using GitHub Pages
 ## Purpose
 This readme will explain how to host a markdown resume as a website using GitHub pages.  
 Additionally, it will connect the setup steps to their corresponding principle outlined in Andrew Etter's book "Modern Technical Writing". 
@@ -66,7 +66,7 @@ Now you should see a yellow dot above the list of files. This indicates that you
     * This is a list of [GitHub themes](https://pages.github.com/themes/)
     * This is a list of [GitHub remote-themes](https://github.com/topics/remote-theme)
     * This is [the theme I used](https://github.com/coogie/oscailte).
-* If you are looking for an in-depth overview of GitHub pages and how it works then checkout [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart).
+* If you are looking for an in-depth overview of GitHub pages and how it works, then checkout [Quickstart for GitHub Pages](https://docs.github.com/en/pages/quickstart).
 * If you are new to GitHub, you can learn more about its power and capabilities through it's [documentation](https://docs.github.com/en), I recommend starting with the [About GitHub and Git](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git) page.
 
 ## Authors and Acknowledgements
