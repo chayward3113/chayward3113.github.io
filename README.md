@@ -1,7 +1,7 @@
 # How to Create a Website using GitHub Pages
 ## Purpose
 This readme will explain how to host a markdown resume as a website using GitHub pages.  
-Additionally, it will connect the setup steps to their corresponding principle outlined in Andrew Etter's book Modern Technical Writing. 
+Additionally, it will connect the setup steps to their corresponding principle outlined in Andrew Etter's book "Modern Technical Writing". 
 
 ## Prerequisites
 * A markdown formatted resume.  
@@ -14,23 +14,25 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
 
 1. Confirm that the [Prerequisites](#prerequisites) listed above have been completed.  
    ### Benefits of Lightweight Markup Language  
+   According to Andrew Etter's book "Modern Technical Writing":  
    * One benefit of Lightweight Markup lanugages like Markdown is that editors are free so anybody can use them making it easier for others to contribute to markdown files.
    * Another benefit is that it has fewer formatting options which makes it simpler to use. Therefore, you can write content faster without needing to worry about styling.
    * One final benefit is that it is easy to maintain a consistent format across multiple documents. Since we keep the contents and style seperate through the use of a static site generator such as Jekyll. We can easily create a consistent style across multiple Markdown documents and remove the need to add styling to each individual document risking inconsistencies.   
 
-2. ### Create GitHub Repository  
+3. ### Create GitHub Repository  
     1. Sign-in to [GitHub](https://github.com/login).  
     2. Click the plus icon in the top right corner of the screen.
     3. Click New repository. 
     4. Name your repository username.github.io where username is your username.
     5. Check the Add a README option.
     6. Click the Create repository button at the bottom of the screen.  
-    #### Benefits of a Distributed Version Control System  
-    * Firstly, by using a distributed version control system such as GitHub we can make it easy for anyone to contribute by making a public repository. Which allows anyone with a GitHub account to add, edit or delete files within the repository. This way our users can help us maintain useful and up to date documentation.
-    * Secondly, by using a distributed version control system it becomes very easy to publish new versions and keep track of changes. Because whenever a change to the repository is saved you are given the option to provide a commit message where you can state what changed and why. Additionally, whenever a change to the repository is saved the new version will be available to everyone in a matter of minutes.
-    * Finally, when we use a distributed version control system like GitHub it makes it very easy to not duplicate documentation. Because we can keep all of our documentation in one location on the internet making it easy to add links from one document to another. 
+    #### Benefits of a Distributed Version Control System
+    According to Andrew Etter's book "Modern Technical Writing":  
+    * Firstly, by using a distributed version control system such as GitHub we can make it easy for anyone to contribute by making a public repository. Which allows anyone with a GitHub account to add, edit or delete files within the repository. This way viewers can help us maintain a useful and up to date resume.
+    * Secondly, by using a distributed version control system it becomes very easy to publish new versions of our resume and keep track of changes. Because whenever a change to the repository is saved you are given the option to provide a commit message where you can state what changed and why. Additionally, whenever a change to the repository is saved the new version will be available to everyone in a matter of minutes.
+    * Finally, when we use a distributed version control system like GitHub it makes it very easy to not duplicate work. Because we can keep all our documents in one location on the internet making it easy to add links from one document to another. 
 
-3. ### Build Website
+5. ### Build Website
     1. Click Add file > Upload files.
     2. Select your markdown formatted resume for upload. 
     3. Click Commit changes.
@@ -39,7 +41,7 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     6. Change your resume’s file name to be index.md.
     7. Commit changes. Now if you navigate to username.github.io in your web-browser you should see your markdown formatted resume.  
 
-4. ### Setup Markdown Styling  
+6. ### Setup Markdown Styling  
     1. Click the Code tab in your GitHub repository.
     2. Click Add file > Create new file.
     3. Name the file _config.yml.
@@ -49,10 +51,11 @@ You can create a GitHub account [here](https://github.com/signup?source=login).
     7. Click code.  
 Now you should see a yellow dot above the list of files. This indicates that your website is being rebuilt. It will be done building when the dot turns into a green check mark this should take a couple minutes. For more details on the build including what it is doing, and its progress simply click on the yellow dot followed by details.
     8. Navigate to username.github.io where username is your username. You should now see your resume formatted using the style that you chose.  
-    #### Benefits of Generating Static Sites  
-    * Creating a website ensures that everyone always has access to the most up to date version of our documentation.
+    #### Benefits of Generating Static Sites
+    According to Andrew Etter's book "Modern Technical Writing":  
+    * Creating a website ensures that everyone always has access to the most up to date version of our resumes.
     * Static site generators make it easy to style Markdown files and styling makes them easier to read. They accomplish this by simplifying the styling process by seperating content from styles so that we can apply the same style to multiple files.
-    * Additionally, it makes updating and distributing documentation faster and simpler. Because whenever, we make a change to our repository we can rebuild the site within a matter of minutes.
+    * Additionally, it makes updating and distributing our resume faster and simpler. Especially in GitHub because whenever, we make a change to our repository it will automatically rebuild the site using Jekyll within a matter of minutes.
 
 ### Demo
 ![This is a visual version of the manual steps written out below.](https://github.com/chayward3113/chayward3113.github.io/blob/main/walkthrough.gif)
