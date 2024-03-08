@@ -1,4 +1,5 @@
 # How to create a website using GitHub Pages
+## Purpose
 This readme will explain how to host a markdown resume as a website using GitHub pages.  
 Additionally, it will connect the setup steps to their corresponding principle outlined in Andrew Etter's book Modern Technical Writing. 
 
