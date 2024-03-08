@@ -37,7 +37,7 @@ In this step we follow Etter's principle of helping others write by making a pub
     4. Click your resume name.
     5. Click the pencil icon to edit.
     6. Change your resume’s file name to be index.md.
-    7. Commit changes. Now if you go to username.github.io you should see your markdown formatted resume.  
+    7. Commit changes. Now if you navigate to username.github.io in your web-browser you should see your markdown formatted resume.  
 In this step we demonstrate Etter's principle of building a website. We want to create a website to ensure that everyone always has access to the most up to date version of our documentation. Additionally, it makes updating and distributing documentation both faster and simpler. 
 
 4. ### Setup Markdown styling
@@ -52,7 +52,7 @@ In this step we again use Etter's step of building a website. This time we add a
 5. ### Rebuild website with style choice
     1. Click code.  
 Now you should see a yellow dot above the list of files. This indicates that your website is being rebuilt. It will be done building when the dot turns into a green check mark this should take a couple minutes. For more details on the build including what it is doing, and its progress simply click on the yellow dot followed by details.
-    2. Go to https://username.github.io where username is your username. You should now see your resume formatted using the style that you chose.  
+    2. Navigate to username.github.io where username is your username. You should now see your resume formatted using the style that you chose.  
 In this step we use Etter's principle of updating frequently. Because whenever, we save a change to our repository the site rebuilds within a matter of minutes. This allows us to easily make changes to our site that happen almost instantly, making publishing frequently simple. Lastly, since we can publish frequently maintaining a catalog of difference doesn't take much effort. With every release the developers can simply inform us of the changes and we can describe them in a README for all our users to see.
 
 ## More Resources
