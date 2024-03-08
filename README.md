@@ -74,14 +74,14 @@ In this step we use Etter's principle of updating frequently. Because whenever, 
 * Lastly, I need to acknowledge my two classmates Logan Doran and Harry Pu who helped me by peer editing my repository.
 
 ## FAQs
-Why is Markdown better than a word processor?  
+**Why is Markdown better than a word processor?**  
 Markdown is better than a word processor for several reasons: 
 * The first is that Markdown editors are free so anybody can use them. Thus, it makes it easier for others to contribute to markdown files.
 * Secondly, it has fewer formatting options which makes it simpler to use. Therefore, you can write content faster without needing to worry about styling.
 * Lastly, we can ensure a consistent style across multiple files by using a single Jekyll style. Thus, removing the need to manually select the same template each time in word.
 
  
-Why is my resume not showing up?  
+**Why is my resume not showing up?**  
 If your resume is not showing up, then you should try the following:
 1. Confirm that the build has completed by verifying that the yellow circle is gone, and the green checkmark is present.
 2. Confirm that the name of your resume is index.md.
